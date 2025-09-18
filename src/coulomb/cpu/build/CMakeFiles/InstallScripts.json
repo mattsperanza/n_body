@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/matthewsperanza/Programs/n_body/src/coulomb/cpu/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
